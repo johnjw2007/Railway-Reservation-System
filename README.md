@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224040141
+# Name: John Wilfred Thomas J W
+# Date: 24.02.2026
 
 
 # AIM:
